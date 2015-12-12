@@ -1,0 +1,14 @@
+body {
+	background: #f2f2f2;
+	color: #595959;
+	font-family: Arial;
+	text-align: center;
+}
+
+h1 {
+	background: #595959;
+	color: #f2f2f2;
+	text-align: center;
+	font-weight: bold;
+	padding: 1em 0;
+}
